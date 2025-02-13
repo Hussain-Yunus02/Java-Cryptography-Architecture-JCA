@@ -88,5 +88,4 @@ For each protocol, the program will display:
 
 ---
 ## **Author**
-**Husain Yunus Maudiwala**  
-*5th-year Computer Engineering Student @ Toronto Metropolitan University*  
+👨‍💻 **Husain Yunus Maudiwala**  
